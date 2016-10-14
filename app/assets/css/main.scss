@@ -1,0 +1,16 @@
+//MCSS http://operatino.github.io/MCSS/
+
+/* */
+@import "reset";
+@import "start";
+
+/* base */
+
+@import "base/base";
+@import "base/buttons";
+@import "base/layout";
+
+/* project */
+
+@import "project/header";
+@import "project/footer";
